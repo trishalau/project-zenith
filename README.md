@@ -28,7 +28,7 @@ To compile and run this project, you need:
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/trishalauu-ai/project-zenith.git]
+   git clone [https://github.com/trishalau/project-zenith.git]
    cd ProjectZenith
 
 3. Compile source files:
